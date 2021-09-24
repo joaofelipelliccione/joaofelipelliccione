@@ -5,16 +5,18 @@ Um carioca :sunglasses: de 22 anos que busca, cotidianamente, o equilíbrio entr
 **Formação Gestão 🧑‍💼 -** Administrador de Empresas com Domínio Adicional em Empreendedorismo, pela PUC-Rio.
 
 **Formação Tech 👨‍💻 -** Estudante de desenvolvimento WEB, na [Trybe](https://www.betrybe.com/).
-___
-**Fique à vontade para explorar meu Github e enviar feedbacks sobre os projetos que realizei!**
+
+[Clique](https://joaofelipelliccione.github.io/), para ter acesso ao meu *CV* e portfólio.
+
+## Github :octocat:
+**Fique à vontade para enviar feedbacks sobre os projetos que realizei!**
+
+[Clique](https://github.com/joaofelipelliccione/joaofelipelliccione.github.io/tree/main/projetos-trybe), para ser redirecionado ao diretório com os projetos realizados durante o curso da Trybe.
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofelipelliccione&theme=dracula&show_icons=true)
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipelliccione&layout=compact&theme=dracula)
 
-[Clique](https://joaofelipelliccione.github.io/), para ter acesso ao meu *CV* e portfólio.
-
-[Clique](https://github.com/joaofelipelliccione/joaofelipelliccione.github.io/tree/main/projetos-trybe), para ser redirecionado ao diretório com os projetos realizados durante o curso da Trybe.
 
 ## Contato :calling:
 
