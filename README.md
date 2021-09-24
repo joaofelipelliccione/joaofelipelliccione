@@ -1,16 +1,23 @@
-### Hi there 👋
+# Quem Sou Eu?
 
-<!--
-**joaofelipelliccione/joaofelipelliccione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um carioca :sunglasses: de 22 anos que busca, cotidianamente, o equilíbrio entre os três pilares mais importantes da vida: saúde, família/amigos e sucesso profissional. A paixão por esportes e o foco voltado à realização de sonhos e objetivos profissionais, também me definem.
 
-Here are some ideas to get you started:
+**Formação Gestão 🧑‍💼 -** Administrador de Empresas com Domínio Adicional em Empreendedorismo, pela PUC-Rio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Formação Tech 👨‍💻 -** Estudante de desenvolvimento WEB, na [Trybe](https://www.betrybe.com/).
+___
+**Fique à vontade para explorar meu Github e enviar feedbacks sobre os projetos que realizei!**
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofelipelliccione&theme=dracula&show_icons=true)
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipelliccione&layout=compact&theme=dracula)
+
+[Clique](https://joaofelipelliccione.github.io/), para ter acesso ao meu *CV* e portfólio.
+[Clique](https://github.com/joaofelipelliccione/joaofelipelliccione.github.io/tree/main/projetos-trybe), para ser redirecionado ao diretório com os projetos realizados durante o curso da Trybe.
+
+## Contato :calling:
+
+**Celular e WhatsApp:** (21) 97257-4272
+**E-mail:** jf.pelliccione@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/joaofelipelliccione/
+
