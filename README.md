@@ -19,6 +19,8 @@ ___
 ## Contato :calling:
 
 **Celular e WhatsApp:** (21) 97257-4272
+
 **E-mail:** jf.pelliccione@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/joaofelipelliccione/
 
