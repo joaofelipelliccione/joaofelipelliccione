@@ -13,6 +13,7 @@ ___
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipelliccione&layout=compact&theme=dracula)
 
 [Clique](https://joaofelipelliccione.github.io/), para ter acesso ao meu *CV* e portfólio.
+
 [Clique](https://github.com/joaofelipelliccione/joaofelipelliccione.github.io/tree/main/projetos-trybe), para ser redirecionado ao diretório com os projetos realizados durante o curso da Trybe.
 
 ## Contato :calling:
