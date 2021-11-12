@@ -6,7 +6,7 @@ Um carioca :sunglasses: de 22 anos que busca, cotidianamente, o equilíbrio entr
 
 **Formação Tech 👨‍💻 -** Estudante de desenvolvimento WEB, na [Trybe](https://www.betrybe.com/).
 
-[Clique](https://joaofelipelliccione.github.io/), para ter acesso ao meu *CV* e portfólio.
+[Clique](https://joaofelipelliccione.github.io/personal-portfolio_react/), para ter acesso ao meu *CV* e portfólio.
 
 ## Github :octocat:
 **Fique à vontade para enviar feedbacks sobre os projetos que realizei!**
@@ -15,7 +15,7 @@ Um carioca :sunglasses: de 22 anos que busca, cotidianamente, o equilíbrio entr
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofelipelliccione&theme=dracula&show_icons=true)
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipelliccione&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipelliccione&layout=compact&theme=dracula)
 
 
 ## Contato :calling:
