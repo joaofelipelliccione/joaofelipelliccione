@@ -1,6 +1,6 @@
 # Quem Sou Eu?
 
-Um carioca :sunglasses: de 22 anos que busca, cotidianamente, o equilíbrio entre os três pilares mais importantes da vida: saúde, família/amigos e sucesso profissional. A paixão por esportes e o foco voltado à realização de sonhos e objetivos profissionais, também me definem.
+Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entre os três pilares mais importantes da vida: saúde, família/amigos e sucesso profissional. A paixão por esportes e o foco voltado à realização de sonhos e objetivos profissionais, também me definem.
 
 **Formação Gestão 🧑‍💼 -** Administrador de Empresas com Domínio Adicional em Empreendedorismo, pela PUC-Rio.
 
