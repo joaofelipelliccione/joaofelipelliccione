@@ -11,18 +11,18 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 ## Linguagens e Ferramentas que Domino:
 
 <p align="left"> 
-    <a href="https://icons8.com/icon/20909/html-5" target="_blank"> <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
-    <a href="https://icons8.com/icon/21278/css3" target="_blank"> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" /> 
+    <a href="https://icons8.com/icon/20909/html-5" target="_blank"> <img title="HTML" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/> </a> 
+    <a href="https://icons8.com/icon/21278/css3" target="_blank"> <img title="CSS" src="https://img.icons8.com/color/40/000000/css3.png"/> </a> 
+    <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> </a> 
+    <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="JavaScript" src="https://img.icons8.com/color/40/000000/javascript--v2.png" /> 
     </a>
-    <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img src="https://img.icons8.com/officel/80/000000/react.png" width="48px" title="React.js"/></a>
-    <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"/></a>
+    <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img src="https://img.icons8.com/officel/80/000000/react.png" width="40px" title="React.js"/></a>
+    <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/40/000000/redux.png" title="Redux"/></a>
 </p>
 
 <p align="left"> 
-    <a href="https://icons8.com/icons/set/slack" target="_blank"><img title="Slack" src="https://img.icons8.com/color/48/000000/slack-new.png"/></a>
-        <a href="https://icons8.com/icons/set/trello" target="_blank"><img title="Trello" src="https://img.icons8.com/color/48/000000/trello.png"/></a>
+    <a href="https://icons8.com/icons/set/slack" target="_blank"><img title="Slack" src="https://img.icons8.com/color/40/000000/slack-new.png"/></a>
+        <a href="https://icons8.com/icons/set/trello" target="_blank"><img title="Trello" src="https://img.icons8.com/color/40/000000/trello.png"/></a>
 </p>
 
 ## Github :octocat:
