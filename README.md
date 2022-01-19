@@ -18,6 +18,7 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
     </a>
     <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img src="https://img.icons8.com/officel/80/000000/react.png" width="40px" title="React.js"/></a>
     <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/40/000000/redux.png" title="Redux"/></a>
+        <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/></a>
 </p>
 
 <p align="left"> 
