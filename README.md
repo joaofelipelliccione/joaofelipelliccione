@@ -13,12 +13,16 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 <p align="left"> 
     <a href="https://icons8.com/icon/20909/html-5" target="_blank"> <img title="HTML" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/> </a> 
     <a href="https://icons8.com/icon/21278/css3" target="_blank"> <img title="CSS" src="https://img.icons8.com/color/40/000000/css3.png"/> </a> 
-    <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> </a> 
     <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="JavaScript" src="https://img.icons8.com/color/40/000000/javascript--v2.png" /> 
     </a>
     <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img src="https://img.icons8.com/officel/80/000000/react.png" width="40px" title="React.js"/></a>
     <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/40/000000/redux.png" title="Redux"/></a>
-        <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/></a>
+</p>
+
+<p align="left"> 
+    <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> </a> 
+        <a href="https://icons8.com.br/icons/set/docker"><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/></a>
+        <a href="https://icons8.com.br/icons/set/mysql"><img src="https://img.icons8.com/ios-filled/40/000000/mysql.png" title="MySQL"/></a>
 </p>
 
 <p align="left"> 
