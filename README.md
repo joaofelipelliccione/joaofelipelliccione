@@ -21,13 +21,13 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 
 <p align="left"> 
     <a href="https://icons8.com/icon/20906/git" target="_blank"> <img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> </a> 
-        <a href="https://icons8.com.br/icons/set/docker"><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/></a>
-        <a href="https://icons8.com.br/icons/set/mysql"><img src="https://img.icons8.com/ios-filled/40/000000/mysql.png" title="MySQL"/></a>
+    <a href="https://icons8.com.br/icons/set/docker"><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/></a>
+    <a href="https://icons8.com.br/icons/set/mysql"><img src="https://img.icons8.com/ios/40/000000/mysql.png" title="MySQL"/></a>
 </p>
 
 <p align="left"> 
     <a href="https://icons8.com/icons/set/slack" target="_blank"><img title="Slack" src="https://img.icons8.com/color/40/000000/slack-new.png"/></a>
-        <a href="https://icons8.com/icons/set/trello" target="_blank"><img title="Trello" src="https://img.icons8.com/color/40/000000/trello.png"/></a>
+    <a href="https://icons8.com/icons/set/trello" target="_blank"><img title="Trello" src="https://img.icons8.com/color/40/000000/trello.png"/></a>
 </p>
 
 ## Github :octocat:
