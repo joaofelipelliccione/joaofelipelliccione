@@ -11,12 +11,13 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 ## Linguagens e Ferramentas que Domino:
 
 <p align="left"> 
-    <a href="https://icons8.com/icon/20909/html-5" target="_blank"> <img title="HTML" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/> </a> 
+    <a href="https://icons8.com/icon/20909/html-5" target="_blank"> <img title="HTML" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/></a> 
     <a href="https://icons8.com/icon/21278/css3" target="_blank"> <img title="CSS" src="https://img.icons8.com/color/40/000000/css3.png"/> </a> 
     <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"> <img title="JavaScript" src="https://img.icons8.com/color/40/000000/javascript--v2.png" /> 
     </a>
     <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img src="https://img.icons8.com/officel/80/000000/react.png" width="40px" title="React.js"/></a>
     <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/40/000000/redux.png" title="Redux"/></a>
+        <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/40/000000/nodejs.png" title="Node.js"/></a>
 </p>
 
 <p align="left"> 
@@ -34,17 +35,3 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 **Fique à vontade para enviar feedbacks sobre os projetos que realizei!**
 
 [Clique](https://github.com/joaofelipelliccione/joaofelipelliccione.github.io/tree/main/projetos-trybe), para ser redirecionado ao diretório com os projetos realizados durante o curso da Trybe.
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofelipelliccione&theme=dracula&show_icons=true)
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipelliccione&layout=compact&theme=dracula)
-
-
-## Contato :calling:
-
-**Celular e WhatsApp:** (21) 97257-4272
-
-**E-mail:** jf.pelliccione@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/joaofelipelliccione/
-
