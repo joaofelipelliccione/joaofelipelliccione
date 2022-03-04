@@ -43,4 +43,7 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 	<a href="mailto:jf.pelliccione@gmail.com" target="_blank">
 		<img src="https://img.icons8.com/fluency/40/000000/gmail-new.png" title="Enviar e-mail para João Felipe!"/>
 	</a>
+	<a href="https://www.linkedin.com/in/joaofelipelliccione/" target="_blank">
+		<img src="https://img.icons8.com/color/40/000000/linkedin.png" title="Dê uma olhada no meu perfil!"/>
+	</a>
 </div>
