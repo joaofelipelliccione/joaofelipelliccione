@@ -38,10 +38,10 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 ## Contato
 <div align="left">
 	<a href="https://wa.me/5521972574272" target="_blank">
-		<img src="https://img.icons8.com/color/40/000000/whatsapp--v1.png" title="Enviar wpp para João Felipe!" />
+		<img src="https://img.icons8.com/color/40/000000/whatsapp--v1.png" title="Me envie um wpp!" />
 	</a>
 	<a href="mailto:jf.pelliccione@gmail.com" target="_blank">
-		<img src="https://img.icons8.com/fluency/40/000000/gmail-new.png" title="Enviar e-mail para João Felipe!"/>
+		<img src="https://img.icons8.com/fluency/40/000000/gmail-new.png" title="Me envie um e-mail!"/>
 	</a>
 	<a href="https://www.linkedin.com/in/joaofelipelliccione/" target="_blank">
 		<img src="https://img.icons8.com/color/40/000000/linkedin.png" title="Dê uma olhada no meu perfil!"/>
