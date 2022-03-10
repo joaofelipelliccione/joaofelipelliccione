@@ -6,7 +6,7 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 
 **Formação Tech 👨‍💻 -** Estudante de desenvolvimento WEB, na [Trybe](https://www.betrybe.com/).
 
-[Clique](https://joaofelipelliccione.github.io/professional-portfolio_react/), para ter acesso ao meu ***CV*** e **portfólio**.
+[Clique](https://joaofelipecunha.herokuapp.com/), para ter acesso ao meu ***CV*** e **portfólio**.
 
 ## Linguagens e Ferramentas que Domino
 
