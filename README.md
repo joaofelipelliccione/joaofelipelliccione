@@ -21,8 +21,14 @@ Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entr
 
 <div align="left"> 
 	<img src="https://img.icons8.com/color/40/000000/git.png" title="Git" /> 
-    <img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker" />
     <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" title="MySQL" />
+    <img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker" />
+</div>
+
+<div align="left"> 
+	<img  src="https://img.icons8.com/material/35/000000/triangle-stroked--v1.png" title="Vercel"/>
+	<img  src="https://img.icons8.com/color/35/000000/heroku.png" title="Heroku"/>
+	<img  src="https://img.icons8.com/fluency/40/000000/google-cloud.png" title="Google Cloud"/>
 </div>
 
 <div align="left"> 
