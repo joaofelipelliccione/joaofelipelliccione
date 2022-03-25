@@ -1,55 +1,62 @@
-# Quem Sou Eu?
+# Who am I?
 
-Um carioca :sunglasses: de 23 anos que busca, cotidianamente, o equilíbrio entre os três pilares mais importantes da vida: saúde, família/amigos e sucesso profissional. A paixão por esportes e o foco voltado à realização de sonhos e objetivos profissionais, também me definem.
+A 23-year-old men who seeks, daily, the balance between the three most important pillars of life: health, family/friends and professional success. The passion for sports and the focus on achieving professional dreams and goals also defines me.
 
-**Formação Gestão 🧑‍💼 -** Administrador de Empresas com Domínio Adicional em Empreendedorismo, pela PUC-Rio.
+**Management Main Qualification 🧑‍💼 -** PUC-Rio's undergraduate degree in Business Administration with a minor in Entrepreneurship.
 
-**Formação Tech 👨‍💻 -** Estudante de desenvolvimento WEB, na [Trybe](https://www.betrybe.com/).
+**Tech Main Qualification 👨‍💻 -** Full-Stack WEB development student, at [Trybe](https://www.betrybe.com/).
 
-[Clique](https://joaofelipecunha.vercel.app/), para ter acesso ao meu ***CV*** e **portfólio**.
+[Click here](https://joaofelipecunha.vercel.app/), to open my ***CV*** e **portfolio**.
 
-## Linguagens e Ferramentas que Domino
+## Tools and Languages
 
 <div align="left"> 
-	<img src="https://img.icons8.com/color/40/000000/html-5--v1.png" title="HTML" />
-    <img src="https://img.icons8.com/color/40/000000/css3.png" title="CSS" /> 
-    <img src="https://img.icons8.com/color/40/000000/javascript--v2.png" title="JavaScript" /> 
-    <img src="https://img.icons8.com/officel/40/000000/react.png" title="React JS"/>
-    <img src="https://img.icons8.com/color/40/000000/redux.png" title="Redux"/>
-    <img src="https://img.icons8.com/color/40/000000/nodejs.png" title="Node JS"/>
+	<img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML" />
+    <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS" /> 
+    <img src="https://img.icons8.com/color/35/000000/javascript--v2.png" title="JavaScript" /> 
+    <img src="https://img.icons8.com/officel/35/000000/react.png" title="React JS"/>
+    <img src="https://img.icons8.com/color/35/000000/redux.png" title="Redux"/>
+    <img src="https://img.icons8.com/color/35/000000/nodejs.png" title="Node JS"/>
+    <img  src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
 </div>
 
 <div align="left"> 
-	<img src="https://img.icons8.com/color/40/000000/git.png" title="Git" /> 
-    <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" title="MySQL" />
-    <img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker" />
+	<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" title="Jest"/>
+		<img title="React Testing Library" width="35px" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library" title="React Testing Library">
+</div>
+
+<div align="left"> 
+	<img src="https://img.icons8.com/color/35/000000/git.png" title="Git" /> 
+    <img src="https://img.icons8.com/color/35/000000/mysql-logo.png" title="MySQL" />
+    <img src="https://img.icons8.com/color/35/000000/docker.png" title="Docker" />
 </div>
 
 <div align="left"> 
 	<img  src="https://img.icons8.com/material/35/000000/triangle-stroked--v1.png" title="Vercel"/>
 	<img  src="https://img.icons8.com/color/35/000000/heroku.png" title="Heroku"/>
-	<img  src="https://img.icons8.com/fluency/40/000000/google-cloud.png" title="Google Cloud"/>
+	<img  src="https://img.icons8.com/fluency/35/000000/google-cloud.png" title="Google Cloud"/>
 </div>
 
 <div align="left"> 
-    <img src="https://img.icons8.com/color/40/000000/ms-excel.png" title="Excel" />
-    <img src="https://img.icons8.com/color/40/000000/power-bi.png" title="Power BI"/>
+    <img src="https://img.icons8.com/color/35/000000/ms-excel.png" title="Excel" />
+    <img src="https://img.icons8.com/color/35/000000/power-bi.png" title="Power BI"/>
 </div>
 
 <div align="left"> 
-    <img src="https://img.icons8.com/color/40/000000/slack-new.png" title="Slack" />
-    <img src="https://img.icons8.com/color/40/000000/trello.png" title="Trello" />
+    <img src="https://img.icons8.com/color/35/000000/slack-new.png" title="Slack" />
+    <img src="https://img.icons8.com/color/35/000000/trello.png" title="Trello" />
 </div>
 
-## Contato
+## Contact Info
 <div align="left">
 	<a href="https://wa.me/5521972574272" target="_blank">
-		<img src="https://img.icons8.com/color/40/000000/whatsapp--v1.png" title="Me envie um wpp!" />
+		<img src="https://img.icons8.com/color/35/000000/whatsapp--v1.png" title="Send me a wpp message!" />
 	</a>
 	<a href="mailto:jf.pelliccione@gmail.com" target="_blank">
-		<img src="https://img.icons8.com/fluency/40/000000/gmail-new.png" title="Me envie um e-mail!"/>
+		<img src="https://img.icons8.com/fluency/35/000000/gmail-new.png" title="Send me an e-mail!"/>
 	</a>
 	<a href="https://www.linkedin.com/in/joaofelipelliccione/" target="_blank">
-		<img src="https://img.icons8.com/color/40/000000/linkedin.png" title="Dê uma olhada no meu perfil!"/>
+		<img src="https://img.icons8.com/color/35/000000/linkedin.png" title="Look my profile!"/>
 	</a>
 </div>
+
