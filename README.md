@@ -16,19 +16,28 @@ A 23-year-old men who seeks, daily, the balance between the three most important
     <img src="https://img.icons8.com/color/35/000000/javascript--v2.png" title="JavaScript" /> 
     <img src="https://img.icons8.com/officel/35/000000/react.png" title="React JS"/>
     <img src="https://img.icons8.com/color/35/000000/redux.png" title="Redux"/>
-    <img src="https://img.icons8.com/color/35/000000/nodejs.png" title="Node JS"/>
-    <img  src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
 </div>
 
 <div align="left"> 
-	<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" title="Jest"/>
-		<img title="React Testing Library" width="35px" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library" title="React Testing Library">
+    <img src="https://img.icons8.com/color/35/000000/nodejs.png" title="Node JS"/>
+    <img  src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
+    <img  src="https://khalilstemmler.com/img/blog/sequelize/banner.png" width="35px" title="Sequelize ORM"/>
+    <img  src="https://miro.medium.com/max/370/1*jO715XDC1YAEsWUwovWUQw.png" width="55px" title="Mongoose ODM"/>
 </div>
 
 <div align="left"> 
 	<img src="https://img.icons8.com/color/35/000000/git.png" title="Git" /> 
     <img src="https://img.icons8.com/color/35/000000/mysql-logo.png" title="MySQL" />
+    <img src="https://lineadecodigo.com/wp-content/uploads/2014/04/mongodb.png" width="32px" title="Mongo DB" />
     <img src="https://img.icons8.com/color/35/000000/docker.png" title="Docker" />
+</div>
+
+<div align="left"> 
+	<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" title="Jest"/>
+	<img width="35px" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library" title="React Testing Library">
+	<img width="35px" src="https://avatars.githubusercontent.com/u/8770005?v=4" alt="testing-library" title="Mocha JS">
+		<img width="29px" src="https://seeklogo.com/images/C/chai-logo-F349805F7D-seeklogo.com.png" alt="testing-library" title="Chai JS">
+			<img width="32px" src="https://sinonjs.org/assets/images/logo.png" alt="testing-library" title="Sinon JS">
 </div>
 
 <div align="left"> 
@@ -59,4 +68,3 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 		<img src="https://img.icons8.com/color/35/000000/linkedin.png" title="Look my profile!"/>
 	</a>
 </div>
-
