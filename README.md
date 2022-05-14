@@ -56,7 +56,7 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 
 <div align="left"> 
     <img src="https://img.icons8.com/color/35/000000/slack-new.png" title="Slack" />
-    <img src="https://img.icons8.com/color/35/000000/trello.png" title="Trello" />
+    <img src="https://www.monday.com/blog/wp-content/uploads/2018/02/22852120_1266763086768693_6004893502123596052_n.png" width=35px title="Monday Project Management" />
 </div>
 
 ## Contact Info
