@@ -6,6 +6,8 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 
 **Tech Main Qualification 👨‍💻 -** Full-Stack WEB development student, at [Trybe](https://www.betrybe.com/).
 
+**Current Position 💼 -** Product Owner, at [NG.CASH](https://ng.cash/landing).
+
 [Click here](https://joaofelipecunha.vercel.app/), to open my ***CV*** e **portfolio**.
 
 ## Tools and Languages
@@ -47,6 +49,7 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 </div>
 
 <div align="left"> 
+	<img src="https://img.icons8.com/color/35/000000/python--v1.png" title="Python" />
     <img src="https://img.icons8.com/color/35/000000/ms-excel.png" title="Excel" />
     <img src="https://img.icons8.com/color/35/000000/power-bi.png" title="Power BI"/>
 </div>
