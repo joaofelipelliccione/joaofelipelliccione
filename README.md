@@ -4,9 +4,9 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 
 **Management Main Qualification 🧑‍💼 -** PUC-Rio's undergraduate degree in Business Administration with a minor in Entrepreneurship.
 
-**Tech Main Qualification 👨‍💻 -** Full-Stack WEB development student, at [Trybe](https://www.betrybe.com/).
+**Tech Main Qualification 👨‍💻 -** Full-Stack WEB development student at [Trybe](https://www.betrybe.com/).
 
-**Current Position 💼 -** Product Owner, at [NG.CASH](https://ng.cash/landing).
+**Current Position 💼 -** Product Owner at [NG.CASH](https://ng.cash/landing).
 
 [Click here](https://joaofelipecunha.vercel.app/) to open my ***Web CV***.
 
