@@ -2,15 +2,20 @@
 
 A 23-year-old men who seeks, daily, the balance between the three most important pillars of life: health, family/friends and professional success. The passion for sports and the focus on achieving professional dreams and goals also defines me.
 
-**Management Main Qualification 🧑‍💼 -** PUC-Rio's undergraduate degree in Business Administration with a minor in Entrepreneurship.
+**Management Main Qualification 👨‍💼 -** PUC-Rio's undergraduate degree in Business Administration with a minor in Entrepreneurship.
 
-**Tech Main Qualification 👨‍💻 -** Full-Stack WEB development student at [Trybe](https://www.betrybe.com/).
+**Tech Main Qualification 👨🏻‍💻 -** [Trybe's](https://www.betrybe.com/) degree in WEB Development.
 
 **Current Position 💼 -** Product Owner at [NG.CASH](https://ng.cash/landing).
 
 [Click here](https://joaofelipecunha.vercel.app/) to open my ***Web CV***.
 
 ## Tools and Languages
+
+<div align="left"> 
+	<img src="https://img.icons8.com/color/35/000000/git.png" title="Git" /> 
+	    <img src="https://img.icons8.com/color/35/000000/docker.png" title="Docker" />
+</div>
 
 <div align="left"> 
 	<img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML" />
@@ -21,17 +26,15 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 </div>
 
 <div align="left"> 
+    <img src="https://img.icons8.com/color/35/000000/mysql-logo.png" title="MySQL" />
+    <img src="https://lineadecodigo.com/wp-content/uploads/2014/04/mongodb.png" width="32px" title="Mongo DB" />
+</div>
+
+<div align="left"> 
     <img src="https://img.icons8.com/color/35/000000/nodejs.png" title="Node JS"/>
     <img  src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
     <img  src="https://khalilstemmler.com/img/blog/sequelize/banner.png" width="35px" title="Sequelize ORM"/>
     <img  src="https://miro.medium.com/max/370/1*jO715XDC1YAEsWUwovWUQw.png" width="55px" title="Mongoose ODM"/>
-</div>
-
-<div align="left"> 
-	<img src="https://img.icons8.com/color/35/000000/git.png" title="Git" /> 
-    <img src="https://img.icons8.com/color/35/000000/mysql-logo.png" title="MySQL" />
-    <img src="https://lineadecodigo.com/wp-content/uploads/2014/04/mongodb.png" width="32px" title="Mongo DB" />
-    <img src="https://img.icons8.com/color/35/000000/docker.png" title="Docker" />
 </div>
 
 <div align="left"> 
@@ -52,11 +55,6 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 	<img src="https://img.icons8.com/color/35/000000/python--v1.png" title="Python" />
     <img src="https://img.icons8.com/color/35/000000/ms-excel.png" title="Excel" />
     <img src="https://img.icons8.com/color/35/000000/power-bi.png" title="Power BI"/>
-</div>
-
-<div align="left"> 
-    <img src="https://img.icons8.com/color/35/000000/slack-new.png" title="Slack" />
-    <img src="https://www.monday.com/blog/wp-content/uploads/2018/02/22852120_1266763086768693_6004893502123596052_n.png" width=35px title="Monday Project Management" />
 </div>
 
 ## Contact Info
