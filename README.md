@@ -6,9 +6,7 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 
 **Tech Main Qualification 👨🏻‍💻 -** [Trybe's](https://www.betrybe.com/) degree in WEB Development.
 
-**Current Position 💼 -** Product Owner at [NG.CASH](https://ng.cash/landing).
-
-[Click here](https://joaofelipecunha.vercel.app/) to open my ***Web CV***.
+**Current Position 💼 -** Product Manager at [NG.CASH](https://ng.cash/landing).
 
 ## Tools and Languages
 
