@@ -20,6 +20,7 @@ A 23-year-old men who seeks, daily, the balance between the three most important
     <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS" /> 
     <img src="https://img.icons8.com/color/35/000000/javascript--v2.png" title="JavaScript" /> 
     <img src="https://img.icons8.com/officel/35/000000/react.png" title="React JS"/>
+    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="32px" title="Next JS"/>
     <img src="https://img.icons8.com/color/35/000000/redux.png" title="Redux"/>
 </div>
 
@@ -29,9 +30,11 @@ A 23-year-old men who seeks, daily, the balance between the three most important
 </div>
 
 <div align="left"> 
-    <img src="https://img.icons8.com/color/35/000000/nodejs.png" title="Node JS"/>
     <img  src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
+    <img src="https://miro.medium.com/max/800/1*Dno6e7KS5HcdGybg9A0onQ.png" width="55px" title="Express JS"/>
     <img  src="https://khalilstemmler.com/img/blog/sequelize/banner.png" width="35px" title="Sequelize ORM"/>
+            <img  src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="32px" title="Nest JS"/>
+        <img  src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="32px" title="TypeORM"/>
     <img  src="https://miro.medium.com/max/370/1*jO715XDC1YAEsWUwovWUQw.png" width="55px" title="Mongoose ODM"/>
 </div>
 
