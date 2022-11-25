@@ -6,7 +6,7 @@ A 24-year-old men who seeks, daily, the balance between the three most important
 
 **Tech Main Qualification 👨🏻‍💻 -** [Trybe's](https://www.betrybe.com/) degree in WEB Development.
 
-**Current Position 💼 -** Product Manager at [NG.CASH](https://ng.cash/landing).
+**Current Position 💼 -** Software Engineer at [NG.CASH](https://ng.cash/landing).
 
 ## Tools and Languages
 
