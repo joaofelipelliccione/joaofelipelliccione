@@ -8,6 +8,8 @@ A 24-year-old men who seeks, daily, the balance between the three most important
 
 **Current Position 💼 -** Software Engineer at [NG.CASH](https://ng.cash/landing).
 
+**Extra 🤳 -** Admin of Zé do Bizu [Instagram](https://instagram.com/zedobizu?igshid=YmMyMTA2M2Y=) and [Tik Tok](https://www.tiktok.com/@zedobizu?_t=8ZSrmBTWZV8&_r=1) pages.
+
 ## Tools and Languages
 
 <div align="left"> 
@@ -40,7 +42,6 @@ A 24-year-old men who seeks, daily, the balance between the three most important
 
 <div align="left"> 
 	<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" title="Jest"/>
-	<img width="35px" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library" title="React Testing Library">
 	<img width="35px" src="https://avatars.githubusercontent.com/u/8770005?v=4" alt="testing-library" title="Mocha JS">
 		<img width="29px" src="https://seeklogo.com/images/C/chai-logo-F349805F7D-seeklogo.com.png" alt="testing-library" title="Chai JS">
 			<img width="32px" src="https://sinonjs.org/assets/images/logo.png" alt="testing-library" title="Sinon JS">
@@ -49,7 +50,6 @@ A 24-year-old men who seeks, daily, the balance between the three most important
 <div align="left"> 
 	<img  src="https://img.icons8.com/material/35/000000/triangle-stroked--v1.png" title="Vercel"/>
 	<img  src="https://img.icons8.com/color/35/000000/heroku.png" title="Heroku"/>
-	<img  src="https://img.icons8.com/fluency/35/000000/google-cloud.png" title="Google Cloud"/>
 </div>
 
 <div align="left"> 
