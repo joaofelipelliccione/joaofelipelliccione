@@ -8,7 +8,7 @@ A 24-year-old men who seeks, daily, the balance between the three most important
 
 **Current Position 💼 -** Software Engineer at [NG.CASH](https://ng.cash/landing).
 
-**Extra 🤳 -** Admin of Zé do Bizu [Instagram](https://instagram.com/zedobizu?igshid=YmMyMTA2M2Y=) and [Tik Tok](https://www.tiktok.com/@zedobizu?_t=8ZSrmBTWZV8&_r=1) pages.
+**Extra 🤳 -** Admin of Zé do Bizu's [Instagram](https://instagram.com/zedobizu?igshid=YmMyMTA2M2Y=) and [Tik Tok](https://www.tiktok.com/@zedobizu?_t=8ZSrmBTWZV8&_r=1) pages.
 
 ## Tools and Languages
 
