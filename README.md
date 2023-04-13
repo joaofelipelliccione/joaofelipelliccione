@@ -1,14 +1,13 @@
+
 # Who am I?
 
 A 24-year-old men who seeks, daily, the balance between the three most important pillars of life: health, family/friends and professional success. The passion for sports and the focus on achieving professional dreams and goals also defines me.
 
-**Management Main Qualification 👨‍💼 -** PUC-Rio's undergraduate degree in Business Administration with a minor in Entrepreneurship.
+**Management Main Qualification 👨‍💼 -** PUC-Rio's undergraduate degree in Business Administration with an Entrepreneurship minor.
 
 **Tech Main Qualification 👨🏻‍💻 -** [Trybe's](https://www.betrybe.com/) degree in WEB Development.
 
 **Current Position 💼 -** Software Engineer at [NG.CASH](https://ng.cash/landing).
-
-**Extra 🤳 -** Owner and admin of Zé do Bizu's [Instagram](https://instagram.com/zedobizu?igshid=YmMyMTA2M2Y=) and [Tik Tok](https://www.tiktok.com/@zedobizu?_t=8ZSrmBTWZV8&_r=1) pages.
 
 ## Tools and Languages
 
