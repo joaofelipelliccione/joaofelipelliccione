@@ -1,7 +1,7 @@
 
 # Who am I?
 
-A 24-year-old men who seeks, daily, the balance between the three most important pillars of life: health, family/friends and professional success. The passion for sports and the focus on achieving professional dreams and goals also defines me.
+A 24-year-old man who seeks, daily, the balance between the three most important pillars of life: health, family/friends and professional success. The passion for sports and the focus on achieving professional dreams and goals also defines me.
 
 **Management Main Qualification 👨‍💼 -** PUC-Rio's undergraduate degree in Business Administration with an Entrepreneurship minor.
 
