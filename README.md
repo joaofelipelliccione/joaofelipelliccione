@@ -1,62 +1,13 @@
 
 # Who am I?
 
-A motivated 24-year-old man dedicated to maintaining a good balance between the three essential pillars of life: health, family/friends and professional success.
-Passionate about sports and committed to achieving personal and career goals, I strive for excellence in all areas of my life.
+A motivated 25-year-old guy dedicated to maintaining a good balance among the essential pillars of life: health, family/friends, and professional success. Enjoys building well-designed and well-developed technological products that solve people's problems.
 
-**Management Main Qualification 👨‍💼 -** PUC-Rio's undergraduate degree in Business Administration with an Entrepreneurship minor.
+**Management Main Qualification 👨‍💼 -** Business Administration graduate from PUC-Rio with a minor in Entrepreneurship.
 
-**Tech Main Qualification 👨🏻‍💻 -** [Trybe's](https://www.betrybe.com/) degree in WEB Development.
+**Tech Main Qualification 👨🏻‍💻 -** Full-Stack Development graduate from [Trybe](https://www.betrybe.com/).
 
-**Current Position 💼 -** Software Engineer at [NG.CASH](https://ng.cash/landing).
-
-## Tools and Languages
-
-<div align="left"> 
-	<img src="https://img.icons8.com/color/35/000000/git.png" title="Git" /> 
-	    <img src="https://img.icons8.com/color/35/000000/docker.png" title="Docker" />
-</div>
-
-<div align="left"> 
-	<img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML" />
-    <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS" /> 
-    <img src="https://img.icons8.com/color/35/000000/javascript--v2.png" title="JavaScript" /> 
-    <img src="https://img.icons8.com/officel/35/000000/react.png" title="React JS"/>
-    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="32px" title="Next JS"/>
-    <img src="https://img.icons8.com/color/35/000000/redux.png" title="Redux"/>
-</div>
-
-<div align="left"> 
-    <img src="https://img.icons8.com/color/35/000000/mysql-logo.png" title="MySQL" />
-    <img src="https://lineadecodigo.com/wp-content/uploads/2014/04/mongodb.png" width="32px" title="Mongo DB" />
-</div>
-
-<div align="left"> 
-    <img  src="https://img.icons8.com/color/35/000000/typescript.png" title="TypeScript"/>
-    <img src="https://miro.medium.com/max/800/1*Dno6e7KS5HcdGybg9A0onQ.png" width="55px" title="Express JS"/>
-    <img  src="https://khalilstemmler.com/img/blog/sequelize/banner.png" width="35px" title="Sequelize ORM"/>
-            <img  src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="32px" title="Nest JS"/>
-        <img  src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="32px" title="TypeORM"/>
-    <img  src="https://miro.medium.com/max/370/1*jO715XDC1YAEsWUwovWUQw.png" width="55px" title="Mongoose ODM"/>
-</div>
-
-<div align="left"> 
-	<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" title="Jest"/>
-	<img width="35px" src="https://avatars.githubusercontent.com/u/8770005?v=4" alt="testing-library" title="Mocha JS">
-		<img width="29px" src="https://seeklogo.com/images/C/chai-logo-F349805F7D-seeklogo.com.png" alt="testing-library" title="Chai JS">
-			<img width="32px" src="https://sinonjs.org/assets/images/logo.png" alt="testing-library" title="Sinon JS">
-</div>
-
-<div align="left"> 
-	<img  src="https://img.icons8.com/material/35/000000/triangle-stroked--v1.png" title="Vercel"/>
-	<img  src="https://img.icons8.com/color/35/000000/heroku.png" title="Heroku"/>
-</div>
-
-<div align="left"> 
-	<img src="https://img.icons8.com/color/35/000000/python--v1.png" title="Python" />
-    <img src="https://img.icons8.com/color/35/000000/ms-excel.png" title="Excel" />
-    <img src="https://img.icons8.com/color/35/000000/power-bi.png" title="Power BI"/>
-</div>
+**Current Position 💼 -** Partner and Full-Stack Software Engineer at [NG.CASH](https://ng.cash/landing).
 
 ## Contact Info
 <div align="left">
