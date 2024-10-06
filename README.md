@@ -7,7 +7,7 @@ A motivated 25-year-old guy dedicated to maintaining a good balance among the es
 
 **Tech Main Qualification 👨🏻‍💻 -** Full-Stack Development graduate from [Trybe](https://www.betrybe.com/).
 
-**Current Position 💼 -** Partner and Full-Stack Software Engineer at [NG.CASH](https://ng.cash/landing).
+**Current Position 💼 -** Partner and Technical Product Manager at [NG.CASH](https://ng.cash/landing).
 
 ## Contact Info
 <div align="left">
