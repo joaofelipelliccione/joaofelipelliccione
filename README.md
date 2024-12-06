@@ -3,11 +3,9 @@
 
 A motivated 26-year-old guy dedicated to maintaining a good balance among the essential pillars of life: health, family/friends, and professional success. Enjoys building well-designed and well-developed technological products that solve people's problems.
 
-**Management Main Qualification 👨‍💼 -** Business Administration graduate from PUC-Rio with a minor in Entrepreneurship.
+**Management Main Qualification 🤵🏽‍♂️ -** Business Administration graduate from PUC-Rio with a minor in Entrepreneurship.
 
 **Tech Main Qualification 👨🏻‍💻 -** Full-Stack Development graduate from [Trybe](https://www.betrybe.com/).
-
-**Current Position 💼 -** Partner and Technical Product Manager at [NG.CASH](https://ng.cash/landing).
 
 ## Contact Info
 <div align="left">
