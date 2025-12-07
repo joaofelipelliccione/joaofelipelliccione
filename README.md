@@ -1,7 +1,7 @@
 
 # Who am I?
 
-A motivated 26-year-old guy dedicated to maintaining a good balance among the essential pillars of life: health, family/friends, and professional success. Enjoys building well-designed and well-developed technological products that solve people's problems.
+A motivated 27-year-old guy dedicated to maintaining a good balance among the essential pillars of life: health, family/friends, and professional success. Enjoys building well-designed and well-developed technological products that solve people's problems.
 
 **Management Main Qualification 👨🏻‍💼 -** Business Administration graduate from PUC-Rio with a minor in Entrepreneurship.
 
