@@ -7,7 +7,7 @@ A motivated 27-year-old guy dedicated to maintaining a good balance among the es
 
 **Tech Main Qualification 👨🏻‍💻 -** Full-Stack Development graduate from [Trybe](https://www.betrybe.com/).
 
-**Current Role 💼-** Tech Lead at [Tyr Energia]([https://www.betrybe.com/](https://tyrenergia.com.br)).
+**Current Role 💼 -** Tech Lead at [Tyr Energia]([https://www.betrybe.com/](https://tyrenergia.com.br)).
 
 ## Contact Info
 <div align="left">
